@@ -1,12 +1,13 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "User": [
+    { "id": 1, "nickname": "PostMadil" },
+    { "id": 2, "nickname": "AnuteiBoss" },
+    { "id": 3, "nickname": "Sypzer" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "level": [
+    { "id": 1, "lv": "1", "exp": "3" },
+    { "id": 2, "lv": "3", "exp": "2" },
+    { "id": 3, "lv": "5", "exp": "4" }
   ],
   "profile": {
     "name": "typicode"
