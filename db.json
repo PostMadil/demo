@@ -1,8 +1,8 @@
 {
   "User": [
-    { "id": 1, "nickname": "PostMadil" },
-    { "id": 2, "nickname": "AnuteiBoss" },
-    { "id": 3, "nickname": "Sypzer" }
+    { "id": 1, "nickname": "PostMadil","lv": "1", "exp": "3" },
+    { "id": 2, "nickname": "AnuteiBoss" ,"lv": "4", "exp": "6"},
+    { "id": 3, "nickname": "Sypzer","lv": "6", "exp": "9" }
   ],
   "level": [
     { "id": 1, "lv": "1", "exp": "3" },
